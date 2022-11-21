@@ -707,7 +707,7 @@ button:focus {
   padding-bottom: calc(100% / calc(8/10));
 }
 .item:first-child .item__img-wrap .item__img {
-  background-image: url(https://images.pexels.com/photos/12084941/pexels-photo-12084941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/zipline.jpg);
 }
 
 .item:nth-child(2) .item__img-wrap {
@@ -715,14 +715,14 @@ button:focus {
   padding-bottom: calc(100% / calc(120/76));
 }
 .item:nth-child(2) .item__img-wrap .item__img {
-  background-image: url(https://images.pexels.com/photos/1729927/pexels-photo-1729927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_wallclimbing-d_1060x768.jpg);
 }
 
 .item:nth-child(3) .item__img-wrap {
   padding-bottom: calc(100% / calc(60/75));
 }
 .item:nth-child(3) .item__img-wrap .item__img {
-  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/home/stayconnected4_800x600.jpg?h=600&w=800&hash=0B61BAA5E19A2C90FFBA31321883412A);
+  background-image: url("/assets/img/cannon.jpg");
 }
 
 .item:nth-child(4) .item__img-wrap {
@@ -730,21 +730,21 @@ button:focus {
   padding-bottom: calc(100% / calc(900/505));
 }
 .item:nth-child(4) .item__img-wrap .item__img {
-  background-image: url(https://www.tourisme-orthe-arrigans.fr/fileadmin/tourinsoft/images/Base-de-Pop-Guiche-Pays-Basque--11-.jpg);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/hatta_drop2_1080x768px.jpg);
 }
 
 .item:nth-child(5) .item__img-wrap {
   padding-bottom: calc(100% / calc(6/8));
 }
 .item:nth-child(5) .item__img-wrap .item__img {
-  background-image: url(https://heberhatchets.com/wp-content/uploads/2018/10/IMG_1147-1200x900.jpg);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_axethrowing-d_1060x768.jpg);
 }
 
 .item:nth-child(6) .item__img-wrap {
   padding-bottom: calc(100% / calc(1500/844));
 }
 .item:nth-child(6) .item__img-wrap .item__img {
-  background-image: url(https://images.unsplash.com/photo-1547347268-4a6dd064cdad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_archery-d_1060x768.jpg);
 }
 
 .item:nth-child(7) .item__img-wrap {
@@ -752,7 +752,7 @@ button:focus {
   padding-bottom: calc(100% / calc(1000/749));
 }
 .item:nth-child(7) .item__img-wrap .item__img {
-  background-image: url(https://www.blueforest.com/wp-content/uploads/2019/07/bridge-1837210_1280.jpg);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_netwalkway-d_1060x768.jpg);
 }
 
 .item:nth-child(8) .item__img-wrap {
@@ -767,7 +767,7 @@ button:focus {
   padding-bottom: calc(100% / calc(60/75));
 }
 .item:nth-child(9) .item__img-wrap .item__img {
-  background-image: url(https://letsjumptoday.com/wp-content/uploads/2016/05/trampoline-park-kids.jpg);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_smallplunge-d_1060x768.jpg);
 }
 
 .item:nth-child(10) .item__img-wrap {
@@ -775,7 +775,7 @@ button:focus {
   padding-bottom: calc(100% / calc(900/505));
 }
 .item:nth-child(10) .item__img-wrap .item__img {
-  background-image: url(https://nextpittsburgh.com/wp-content/uploads/2017/12/Screen-Shot-2018-01-11-at-2.16.12-PM-e1515698593547.png);
+  background-image: url(https://www.visithatta.com/-/media/project/meraasecosystem/visithatta/play/adventures/activities/activity_bigplunge-d_1060x768.jpg);
 }
 
 .item__img {
@@ -851,4 +851,9 @@ label{
   color: #fff;
   padding: 1%;
   width: 100%;
+}
+
+.item__caption
+{
+  padding-bottom:8rem;
 }
